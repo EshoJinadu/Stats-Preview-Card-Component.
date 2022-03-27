@@ -9,8 +9,6 @@ This project was built with;
 Semantic HTML5 markup
 CSS - Cascading Style Sheet.
 
-<img src="design/Screenshot%20(54).png">
-
 What I learned?
 Being able to solve my fourth challenge on Frontmend mentor has given good edge into making better decisions on solving problems, 
 I am happy with my improvement.
